@@ -1,0 +1,39 @@
+C:\Users\sweat\source\repos\brixy\brixy\bin\Debug\net6.0-windows\brixy.exe
+C:\Users\sweat\source\repos\brixy\brixy\bin\Debug\net6.0-windows\brixy.deps.json
+C:\Users\sweat\source\repos\brixy\brixy\bin\Debug\net6.0-windows\brixy.runtimeconfig.json
+C:\Users\sweat\source\repos\brixy\brixy\bin\Debug\net6.0-windows\brixy.dll
+C:\Users\sweat\source\repos\brixy\brixy\bin\Debug\net6.0-windows\brixy.pdb
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.csproj.AssemblyReference.cache
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.Form1.resources
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.csproj.GenerateResource.cache
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.AssemblyInfoInputs.cache
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.AssemblyInfo.cs
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.csproj.CoreCompileInputs.cache
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.dll
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\refint\brixy.dll
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.pdb
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.genruntimeconfig.cache
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\ref\brixy.dll
+C:\Users\sweat\source\repos\brixy\brixy\obj\Debug\net6.0-windows\brixy.Form2.resources
+C:\Users\sweat\source\repos\brixy V0.1\brixy\bin\Debug\net6.0-windows\brixy.exe
+C:\Users\sweat\source\repos\brixy V0.1\brixy\bin\Debug\net6.0-windows\brixy.deps.json
+C:\Users\sweat\source\repos\brixy V0.1\brixy\bin\Debug\net6.0-windows\brixy.runtimeconfig.json
+C:\Users\sweat\source\repos\brixy V0.1\brixy\bin\Debug\net6.0-windows\brixy.dll
+C:\Users\sweat\source\repos\brixy V0.1\brixy\bin\Debug\net6.0-windows\brixy.pdb
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.csproj.AssemblyReference.cache
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.Form1.resources
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.csproj.GenerateResource.cache
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.AssemblyInfoInputs.cache
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.AssemblyInfo.cs
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.csproj.CoreCompileInputs.cache
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.dll
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\refint\brixy.dll
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.pdb
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.genruntimeconfig.cache
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\ref\brixy.dll
+C:\Users\sweat\source\repos\brixy V0.1\brixy\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sweat\source\repos\brixy V0.1\brixy\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sweat\source\repos\brixy V0.1\brixy\bin\Debug\net6.0-windows\OpenAI_API.dll
+C:\Users\sweat\source\repos\brixy V0.1\brixy\obj\Debug\net6.0-windows\brixy.csproj.CopyComplete
